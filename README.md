@@ -1,2 +1,2 @@
 # www-elgrannelsongomez-com
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8502ad6e-cd62-4411-bd0f-340d701b117a/deploy-status)](https://app.netlify.com/sites/www-elgrannelsongomez-com/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f21468a8-c92a-43bc-8d8a-92707e44ee56/deploy-status)](https://app.netlify.com/sites/www-elgrannelsongomez-com/deploys)
